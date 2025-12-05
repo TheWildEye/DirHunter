@@ -50,13 +50,15 @@ cd DirHunter
 pip install requests
 ```
 ---
-# 3. Verify default wordlist
+### 3. Verify default wordlist
+
 Located at:
 wordlists/common.txt
 
-# 4. Run the tool
+### 4. Run the tool
+```bash
 python DirHunter.py
-
+```
 # 5. Provide input when prompted:
 # Target URL (example: https://example.com)
 # Threads (leave blank for default)
