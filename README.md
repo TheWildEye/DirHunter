@@ -38,3 +38,22 @@ pip install requests
 ---
 
 ## 📥 Installation & Usage
+
+# 1. Clone the repository
+git clone https://github.com/TheWildEye/DirHunter
+cd DirHunter
+
+# 2. Install dependencies
+pip install requests
+
+# 3. Verify default wordlist
+# Located at:
+wordlists/common.txt
+
+# 4. Run the tool
+python DirHunter.py
+
+# 5. Provide input when prompted:
+# Target URL (example: https://example.com)
+# Threads (leave blank for default)
+
