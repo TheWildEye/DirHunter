@@ -62,3 +62,14 @@ wordlists/common.txt
 python DirHunter.py
 ```
 ---
+
+```
+🌐 Enter target: https://target.com
+
+[200] /admin                → https://target.com/admin
+[301] /old                  → https://target.com/login
+[403] /restricted
+[401] /secure
+
+⏱ Scan completed in 11.2 seconds
+```
