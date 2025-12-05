@@ -39,13 +39,13 @@ pip install requests
 
 ## 📥 Installation & Usage
 
-# 1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/TheWildEye/DirHunter
 cd DirHunter
 ```
 ---
-# 2. Install dependencies
+### 2. Install dependencies
 ```bash
 pip install requests
 ```
