@@ -34,7 +34,7 @@ It enumerates hidden directories using a wordlist and highlights actionable HTTP
 ## 📦 Requirements
 ```bash
 pip install requests
-
+```
 ---
 
 ##📥 Installation & Usage
