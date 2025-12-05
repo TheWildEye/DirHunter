@@ -61,7 +61,4 @@ wordlists/common.txt
 ```bash
 python DirHunter.py
 ```
-### 5. Provide input when prompted:
-####Target URL (example: https://example.com)
-####Threads (leave blank for default)
 ---
