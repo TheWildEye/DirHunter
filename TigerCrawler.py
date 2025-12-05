@@ -10,10 +10,13 @@ print(r"""
  ▄ ██   ██ ██ ██    ██  ██   ██ ██ ██ ██ ██ ██▄█▀ ██   
  ▀██▀███▀ ▄██▄█▀  ▀██▀  ▀██▄▄▀██▀█▄██ ▀█▄██▄▀█▄▄▄▄█▀   
                                                        
-                                                                                                                                                                                                                       
  """)
 
 print("\033[0m")
+print(r"""
+CUSTOM DIRECTORY HUNTER BY - TheWildEye 
+Contact - https://github.com/TheWIldEye (For issues/ pull requests)
+""")
 import threading
 import queue
 import re
@@ -126,4 +129,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
