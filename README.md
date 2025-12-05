@@ -40,14 +40,18 @@ pip install requests
 ## 📥 Installation & Usage
 
 # 1. Clone the repository
+```bash
 git clone https://github.com/TheWildEye/DirHunter
 cd DirHunter
-
+```
+---
 # 2. Install dependencies
+```bash
 pip install requests
-
+```
+---
 # 3. Verify default wordlist
-# Located at:
+Located at:
 wordlists/common.txt
 
 # 4. Run the tool
