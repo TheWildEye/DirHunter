@@ -62,7 +62,7 @@ wordlists/common.txt
 python DirHunter.py
 ```
 ---
-##🖥 Example Output
+## 🖥 Example Output
 ```
 🌐 Enter target: https://target.com
 
